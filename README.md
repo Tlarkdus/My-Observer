@@ -125,3 +125,10 @@ My-Observer/
 ---
 
 **Made with ❤️ using Streamlit**
+
+
+## 🌐 Live Demo
+
+**🚀 실제 작동하는 웹 애플리케이션을 확인하세요!**
+
+👉 [My Observer 웹 앱 바로가기](https://my-observer-4rxlhuughd9bfhyxwtafrh.streamlit.app)
