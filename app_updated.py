@@ -26,7 +26,7 @@ plt.rcParams['axes.unicode_minus'] = False
 @st.cache_data
 def load_data():
     """엑셀 데이터 로드"""
-    data_path = os.path.join(os.path.dirname(__file__), '..', 'Do Not Predict, Just Observe.xlsx')
+    data_path = 'Do Not Predict, Just Observe.xlsx'
     
     try:
         data = pd.read_excel(data_path)
